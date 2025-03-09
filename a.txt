@@ -1,8 +1,5 @@
 learning git
 
 
-first
-
-
 
 second
